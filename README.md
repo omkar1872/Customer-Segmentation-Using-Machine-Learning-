@@ -50,7 +50,7 @@ The project uses the **Mall Customers Dataset**, which contains information abou
 ✔ Interpret each cluster's behavior for marketing strategies  
 
 ---
-# Customer Segmentation using Machine Learning
+
 
 ## 📊 Results & Visualizations
 

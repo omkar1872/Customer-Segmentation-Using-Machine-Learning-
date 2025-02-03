@@ -2,7 +2,7 @@
 
 ## 📌 Overview
 This project applies **unsupervised learning** techniques to segment customers based on their purchasing behavior. The goal is to identify different customer groups, enabling businesses to optimize their marketing strategies and personalize customer experiences.
-![Cluster Visualization](https://github.com/omkar1872/Customer-Segmentation-Using-Machine-Learning-/blob/main/Images/download%20(1).png)
+![Cluster Visualization](https://github.com/omkar1872/Customer-Segmentation-Using-Machine-Learning-/blob/main/Images/Customer-segmentation.png)
 
 ---
 

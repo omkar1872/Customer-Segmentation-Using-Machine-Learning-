@@ -56,14 +56,14 @@ The project uses the **Mall Customers Dataset**, which contains information abou
 ### **1️⃣ Elbow Method for Optimal Clusters**
 The **Elbow Method** is used to determine the optimal number of clusters for K-Means.
 
-![Elbow Method](images/elbow_method.png)
+![Elbow Method](https://github.com/omkar1872/Customer-Segmentation-Using-Machine-Learning-/blob/main/Images/download%20(1).png)
 
 ---
 
 ### **2️⃣ Customer Segments (K-Means Clustering)**
 This plot shows the different customer segments identified using K-Means clustering.
 
-![Cluster Visualization](images/cluster_visualization.png)
+![Cluster Visualization](https://github.com/omkar1872/Customer-Segmentation-Using-Machine-Learning-/blob/main/Images/download%20(1).png)
 
 ---
 

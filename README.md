@@ -2,6 +2,7 @@
 
 ## 📌 Overview
 This project applies **unsupervised learning** techniques to segment customers based on their purchasing behavior. The goal is to identify different customer groups, enabling businesses to optimize their marketing strategies and personalize customer experiences.
+![Cluster Visualization](https://github.com/omkar1872/Customer-Segmentation-Using-Machine-Learning-/blob/main/Images/download%20(1).png)
 
 ---
 
@@ -56,7 +57,7 @@ The project uses the **Mall Customers Dataset**, which contains information abou
 ### **1️⃣ Elbow Method for Optimal Clusters**
 The **Elbow Method** is used to determine the optimal number of clusters for K-Means.
 
-![Elbow Method](https://github.com/omkar1872/Customer-Segmentation-Using-Machine-Learning-/blob/main/Images/download%20(1).png)
+![Elbow Method](https://github.com/omkar1872/Customer-Segmentation-Using-Machine-Learning-/blob/main/Images/download%20(3).png)
 
 ---
 
